@@ -1,0 +1,22 @@
+{
+  "name": "SBCustomAlert",
+  "version": "0.1.0",
+  "summary": "A short description of SBCustomAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sanadbarjawi/SBCustomAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sanadbarjawi": "Sanad.b@genie-soft.com"
+  },
+  "source": {
+    "git": "https://github.com/sanadbarjawi/SBCustomAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SBCustomAlert/Classes/**/*"
+}

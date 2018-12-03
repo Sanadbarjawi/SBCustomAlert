@@ -1,0 +1,16 @@
+PODS:
+  - SBCustomAlert (0.1.0)
+
+DEPENDENCIES:
+  - SBCustomAlert (from `../`)
+
+EXTERNAL SOURCES:
+  SBCustomAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SBCustomAlert: 29ffed7f3b9697bc4249ae6e96d6e8d24c370b34
+
+PODFILE CHECKSUM: 1ebb8f13edd3c3f68bb495e6c9900acd44c25c8f
+
+COCOAPODS: 1.5.3

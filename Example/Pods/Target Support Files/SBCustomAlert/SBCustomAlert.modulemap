@@ -1,0 +1,6 @@
+framework module SBCustomAlert {
+  umbrella header "SBCustomAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
